@@ -5,7 +5,7 @@ const computerScoreElement = document.getElementById("computer-score");
 const playerScoreElement = document.getElementById("player-score");
 const result = document.getElementById("results-choice");
 const winner = document.getElementById("winner");
-
+module.exports = { onButtonClick };
 let results;
 let playerScore = 0;
 let computerScore = 0;
@@ -122,7 +122,7 @@ const updateScore = (result) => {
 
 /**
  * Reset the game when the max number of tries is reached
- * If statment within function for when the computer wins a a message is printed to the player
+ * If statement within function for when the computer wins a a message is printed to the player
  * Also a message is printed when the player wins
  */
 const resetGame = () => {
@@ -130,7 +130,7 @@ const resetGame = () => {
     if (playerScore > computerScore) {
         winner.innerHTML = 'Congratulations you won! Make a selection to start again'
     } 
-    //if player score is less than computer scroe the player score the computer wins and a message is printed
+    //if player score is less than computer score the player score the computer wins and a message is printed
     else if (playerScore < computerScore) {
         winner.innerHTML = 'Unlucky you lost! Make a selection to start again'
     } 
@@ -165,7 +165,16 @@ const generateComputerChoice = () => {
  * Function to control the game when a user clicks a button.
  * it uses the id as a parameter and controls the whoel flow of the game 
  */
-const onButtonClick = (id) => {
+function onButtonClick(id) {
+    let winner = document.getElementById('winner');
+    let playerChoice = document.getElementById('player-choice');
+    let computerChoice = document.getElementById('computer-choice');
+
+if (!winner || !playerChoice || !computerChoice) {
+    // Handle the error here, e.g. by logging an error message
+    console.error('Some elements are missing!');
+    return;
+}
     if (numberOfTries <= maxTries) {//if number of tries is less than are equal to max tries the game ends
         winner.innerHTML = '';//output the winner to the game
         //declare the variable aiChoce assign it to generate computer choice
@@ -183,4 +192,6 @@ const onButtonClick = (id) => {
         //if the game has reached 10 tries the game will restart
         resetGame();
     }
+
+
 }
