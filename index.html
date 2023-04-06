@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Rock, Paper, Scissors, Lizard, Spock Game</title>
+</head>
+
+<body>
+    <!--H1 for the main heading within the game-->
+    <h1>Rock, Paper, Scissors, Lizard, Spock</h1>
+    <!--image class for the main logo that explains the rules of the game-->
+    <img class="logo" src="assets/images/Rock_paper_scissors_lizard_spock.png" alt="logo">
+    <div class="main-body">
+        <!--H2 for the options heading -->
+        <h2>Options:</h2>
+        <!---p to show instructions to the player what to click-->
+        <p>Please pick Rock, Paper, Scissors, Lizard, or Spock!</p>
+            <!--buttons classes and ids so they can be called in the app.js. Onclick added for each button to be called in onclick function-->
+            <button class="btn btn-lg btn-success" id="rock" onclick="onButtonClick('rock')">rock</button>
+            <button class="btn btn-lg btn-success" id="paper" onclick="onButtonClick('paper')">paper</button>
+            <button class="btn btn-lg btn-success" id="scissors" onclick="onButtonClick('scissors')">scissors</button>
+            <button class="btn btn-lg btn-success" id="lizard" onclick="onButtonClick('lizard')" >lizard</button>
+            <button class="btn btn-lg btn-success" id="spock" onclick="onButtonClick('spock')">Spock</button>
+       <!--div for results can show on the game page , The ids can be called in the app.js file and have an area to output in the game-->
+        <div class="results">
+            <h2>Player choice: <span id="player-choice"></span></h2>
+            <h2>Computer choice: <span id="computer-choice"></span></h2>
+            <h2>Result: <span id="results-choice"></span></h2>
+        </div>
+        <!---div for the scores sections so the scroes can be outputed and the ids called in the app.js file -->
+        <div class="score">
+            <h1>Score</h1>
+            <p><span>Player: </span><span id="player-score"></span></p>
+            <p><span>Computer: </span><span id="computer-score"></span></p>
+        </div>
+        <!--div for decalring the winners area-->
+        <h2 id="winner"></h2>
+    </div>
+    <script src="assets/js/app.js"></script>
+</body>
+
+</html>
