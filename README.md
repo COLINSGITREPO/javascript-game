@@ -2,7 +2,6 @@
 
 This repository contains the source code for a JavaScript game, built using HTML, CSS, and vanilla JavaScript. The game features a simple interface and incorporates elements of chance, providing an entertaining and challenging experience for players.  
 
-BLANK
 
 ## Objective
 
