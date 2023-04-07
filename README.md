@@ -71,12 +71,11 @@ docker --version
 ```sh
 docker --version
 ```
-
-
 For more information on how to install Docker click [HERE](https://docs.docker.com/get-docker/)
 
 
-##Contributors
+
+## Contributors
 
 Thanks to the following people who have contributed to this project: 
 
@@ -85,7 +84,7 @@ Thanks to the following people who have contributed to this project:
 </a>
 
 
-Any other Contributions to this project are welcome and encouraged. If you encounter any bugs or issues, please open a new issue on this repository. Additionally, if you have any suggestions or feature requests, feel free to submit a pull request.
+> Any other Contributions to this project are welcome and encouraged. If you encounter any bugs or issues, please open a new issue on this repository. Additionally, if you have any suggestions or feature requests, feel free to submit a pull request.
 
 ## License
 
