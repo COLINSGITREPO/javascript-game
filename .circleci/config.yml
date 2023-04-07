@@ -24,7 +24,7 @@ jobs:
     working_directory: ~/javascript-game
 
     docker:
-      - image: circleci/node:latest
+      - image: circleci/node:17.2.0
     steps:
       - checkout
       - run:
@@ -65,7 +65,7 @@ jobs:
             - ./node_modules
   deploy:
     docker:
-      - image: circleci/node:latest
+      - image: circleci/node:17.2.0
     steps:
       - run:
           name: deploy-application
