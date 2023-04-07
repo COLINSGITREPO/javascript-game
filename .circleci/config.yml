@@ -17,7 +17,6 @@ workflows:
           requires:
             - build
 
-
 # Define the jobs we want to run for this project
 jobs:
   build:
