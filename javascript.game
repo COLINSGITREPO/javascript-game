@@ -1,0 +1,512 @@
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
+Error: Cannot find module '../js/app'
+Require stack:
+- /Users/admin/College/gameGroup/javascript-game/bin/www
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/Users/admin/College/gameGroup/javascript-game/bin/www:1:11)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/Users/admin/College/gameGroup/javascript-game/bin/www' ]
+}
