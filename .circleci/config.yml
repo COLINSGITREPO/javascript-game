@@ -44,9 +44,12 @@ jobs:
       - run:
           name: build-docker-image
           command: docker build -t $IMAGE_NAME:latest .
+      - run:
+          name: publish-docker-image
+          command: docker push $IMAGE_NAME
       - run: 
           name: set-environment-varibles
-          command: echo $SEVER > server.crt && echo $PRIVATE_KEY > privatekey.pem
+          command: echo $SERVER > server.crt && echo $PRIVATE_KEY > privatekey.pem
       -run: 
           name: build-docker-image-for-integration-environment
           command: docker create -p 8443:8443 --name javascript-game $IMAGE_NAME
