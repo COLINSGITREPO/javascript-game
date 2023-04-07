@@ -17,14 +17,13 @@ workflows:
           requires:
             - build
 
-
 # Define the jobs we want to run for this project
 jobs:
   build:
     working_directory: ~/javascript-game
 
     docker:
-      - image: circleci/node:14.16.1
+      - image: circleci/node:10.16.3
     steps:
       - checkout
       - run:
@@ -65,7 +64,7 @@ jobs:
             - ./node_modules
   deploy:
     docker:
-      - image: circleci/node:14.16.1
+      - image: circleci/node:10.16.3
     steps:
       - run:
           name: deploy-application
