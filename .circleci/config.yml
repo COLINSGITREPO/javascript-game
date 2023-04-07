@@ -46,16 +46,16 @@ jobs:
       #- run:
        #   name: publish-docker-image
         #  command: docker push $IMAGE_NAME
-      #- run: 
+      #- run:
        #   name: set-environment-varibles
         #  command: echo $SERVER > server.crt && echo $PRIVATE_KEY > privatekey.pem
-      #- run: 
+      #- run:
        #   name: build-docker-image-for-integration-environment
         #  command: docker create -p 8443:8443 --name javascript-game $IMAGE_NAME
       #- run:
        #   name: copy-server-cert-and-private-key-accross
         #  command: docker cp ./privatekey.pem javascript-game:/privatekey.pem; docker cp ./server.crt javascript-game:/server.crt
-     # - run: 
+     # - run:
       #    name: start-docker-container
        #   command: docker start javascript-game
       - save_cache:
