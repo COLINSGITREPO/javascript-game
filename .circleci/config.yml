@@ -35,9 +35,9 @@ jobs:
       - run:
           name: install-npm-wee
           command: npm install
-      #- run:
-          #name: test-run
-          #command: npm run test
+      - run:
+          name: test-run
+          command: npm run test
       #- run:
       #    name: docker-login
       #    command: docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
