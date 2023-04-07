@@ -5,7 +5,7 @@ const computerScoreElement = document.getElementById("computer-score");
 const playerScoreElement = document.getElementById("player-score");
 const result = document.getElementById("results-choice");
 const winner = document.getElementById("winner");
-module.exports = { onButtonClick };
+
 let results;
 let playerScore = 0;
 let computerScore = 0;
@@ -32,7 +32,7 @@ const CHOICES = {
  */
 const getResults = (playerChoice, computerChoice) => {
     if (playerChoice === computerChoice) {
-        return result.innerHTML = "This round is a tie!";
+        result.innerHTML = "This round is a tie!";
     } else if (playerChoice === CHOICES.rock) {
         if (computerChoice === CHOICES.lizard) {
             results = "Rock crushes Lizard! Player Wins";
@@ -84,8 +84,9 @@ const getResults = (playerChoice, computerChoice) => {
             results = "Lizard poisons Spock! Computer Wins";
         }
     }
-    result.innerHTML = results;//prints resluts to the game page
-    return results;//returns the results
+    if (result) {
+        result.innerHTML = results;
+    }
 }
 /**
  * function to generate random number for the computer choice 
@@ -165,16 +166,9 @@ const generateComputerChoice = () => {
  * Function to control the game when a user clicks a button.
  * it uses the id as a parameter and controls the whoel flow of the game 
  */
-function onButtonClick(id) {
-    let winner = document.getElementById('winner');
-    let playerChoice = document.getElementById('player-choice');
-    let computerChoice = document.getElementById('computer-choice');
 
-if (!winner || !playerChoice || !computerChoice) {
-    // Handle the error here, e.g. by logging an error message
-    console.error('Some elements are missing!');
-    return;
-}
+
+const onButtonClick = (id) =>{
     if (numberOfTries <= maxTries) {//if number of tries is less than are equal to max tries the game ends
         winner.innerHTML = '';//output the winner to the game
         //declare the variable aiChoce assign it to generate computer choice
@@ -188,6 +182,7 @@ if (!winner || !playerChoice || !computerChoice) {
         //update the results in the game
         updateScore(result);
         numberOfTries++;
+        return result; // return the result of the game
     } else {
         //if the game has reached 10 tries the game will restart
         resetGame();
@@ -195,3 +190,5 @@ if (!winner || !playerChoice || !computerChoice) {
 
 
 }
+module.exports = { onButtonClick, getResults };
+
