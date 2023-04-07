@@ -50,7 +50,7 @@ jobs:
       - run: 
           name: set-environment-varibles
           command: echo $SERVER > server.crt && echo $PRIVATE_KEY > privatekey.pem
-      -run: 
+      - run: 
           name: build-docker-image-for-integration-environment
           command: docker create -p 8443:8443 --name javascript-game $IMAGE_NAME
       - run:
