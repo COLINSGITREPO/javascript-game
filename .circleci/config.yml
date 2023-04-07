@@ -38,27 +38,27 @@ jobs:
       #- run:
           #name: test-run
           #command: npm run test
-      - run:
-          name: docker-login
-          command: docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
-      - run:
-          name: build-docker-image
-          command: docker build -t $IMAGE_NAME:latest .
-      - run:
-          name: publish-docker-image
-          command: docker push $IMAGE_NAME
-      - run: 
-          name: set-environment-varibles
-          command: echo $SERVER > server.crt && echo $PRIVATE_KEY > privatekey.pem
-      - run: 
-          name: build-docker-image-for-integration-environment
-          command: docker create -p 8443:8443 --name javascript-game $IMAGE_NAME
-      - run:
-          name: copy-server-cert-and-private-key-accross
-          command: docker cp ./privatekey.pem javascript-game:/privatekey.pem; docker cp ./server.crt javascript-game:/server.crt
-      - run: 
-          name: start-docker-container
-          command: docker start javascript-game
+      #- run:
+      #    name: docker-login
+      #    command: docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
+      #- run:
+       #   name: build-docker-image
+        #  command: docker build -t $IMAGE_NAME:latest .
+      #- run:
+       #   name: publish-docker-image
+        #  command: docker push $IMAGE_NAME
+      #- run: 
+       #   name: set-environment-varibles
+        #  command: echo $SERVER > server.crt && echo $PRIVATE_KEY > privatekey.pem
+      #- run: 
+       #   name: build-docker-image-for-integration-environment
+        #  command: docker create -p 8443:8443 --name javascript-game $IMAGE_NAME
+      #- run:
+       #   name: copy-server-cert-and-private-key-accross
+        #  command: docker cp ./privatekey.pem javascript-game:/privatekey.pem; docker cp ./server.crt javascript-game:/server.crt
+     # - run: 
+      #    name: start-docker-container
+       #   command: docker start javascript-game
       - save_cache:
           key: dependency-cache-{{ checksum "package-lock.json" }}
           paths:
