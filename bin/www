@@ -1,4 +1,4 @@
-var app = require('../js/app');
+var app = require('../assets/js/app');
 var debug = require('debug')('phishsense:server');
 var http = require('http');
 
@@ -66,8 +66,8 @@ function onListening() {
 // Add HTTPS Section
 var fs = require('fs');
 var https = require('https');
-var port = normalizePort(process.env.PORT || '8080');
-var https_port    =   process.env.PORT_HTTPS || 8443;
+var port = normalizePort(process.env.PORT || '3000');
+var https_port    =   process.env.PORT_HTTPS || 3000;
 var options = {}
 
 if(process.env.ENV !== "DEV") {
